@@ -1,0 +1,15 @@
+Novice_MonsterHunter,QuestionIDCarlyUseOnly,QuestionAnswered,Answer,CharacterSpeaking,Dialogue,Answer0,PR_0,Answer1,PR_1,Answer2,PR_2,Answer3,PR_3,EndConversation,OpenStorefront,LogJump,StartQuest,EndSubQuest,EndQuest
+0.0,1,0,0,Novice MonsterHunter,"Hello, are you an adventurer like myself?",I am!,FALSE,Who's asking?,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None,None
+1.0,2,1,0,Novice MonsterHunter,"Ohh good, I have a contract that might be a bit over my head.",I'm sure we can handle it.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None,None
+2.0,3,2,0,Novice MonsterHunter,"There has been a manticore destroying the local livestock. I was hired to slay the beast, but I can't seem to find it.",We have quite the opposite problem. While on the road manticores continually find our camp.,FALSE,Lets talk numbers first.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None,None
+3.0,4,3,0,Knight,They're attracted to the smell of cooked meat. Lamb in particular.,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None,None
+4.0,5,4,0,Novice MonsterHunter,"That's an excellent idea, rather chasing the manticore, I'll lure it to me. As payment for your help would you rather have 100 talons or have me owe you a favor?",We'd prefer the coins.,FALSE,A favor among friends is far more valuable. ,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Manticore Trouble.0,None,None
+5.0,6,5,0,Novice MonsterHunter,"That is usually the prefered payment. I wish you the best of luck, and hope to meet again",Best of luck to you as well.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,None,Manticore Trouble.Coin,Manticore Trouble.0
+5.1,7,5,1,Novice MonsterHunter,"Ohh thank goodness, I don't have many talons left. I'll find some way to pay you back.",I hope to see you again.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,None,Manticore Trouble.Favor,Manticore Trouble.0
+3.1,8,3,1,Novice MonsterHunter,Well If you can help me I could perhaps pay a 100 talon consulting fee. ,"Perhaps some advice, While on the road manticores continually find our camp.",FALSE,"Sorry, we can't work for so little.",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None,None
+8.0,9,8,0,Knight,They're attracted to the smell of cooked meat. Lamb in particular.,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,4.0,None,None,None
+8.1,10,8,1,Novice MonsterHunter,Okay come back if you change your mind.,Goodbye,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,None,None,None
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,

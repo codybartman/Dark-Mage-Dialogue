@@ -1,0 +1,11 @@
+LogNumber,QuestionID,QuestionAnswered,Answer,CharacterSpeaking,Dialogue,Answer0,PR_0,Answer1,PR_1,Answer2,PR_2,Answer3,PR_3,EndConversation,TakeItem,OpenStorefront,LogJump,StartQuest,EndQuest
+0.0,1,0,0,GuyPurple,"Ahh, Good morn. What brings you to my humble shop",Do you have any work for me?,FALSE,Can I see your merchandise?,FALSE,I have to go.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None
+1.0,2,1,0,GuyPurple,I do have a small task,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None
+1.1,3,1,1,GuyPurple,Yes ,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None
+1.2,4,1,2,GuyPurple,"Okay, enjoy your evening",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Find Ship,None
+2.0,5,2,0,GuyPurple,"You see I lost my ship, The Nebuchadnezzar",I thought this was going to be a small problem,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None
+5.0,6,5,0,GuyPurple,"Oh but it is, My first mate was suppose to dock it last night. But he's gone missing along with ole' Nebby. I need you to find Nebby and you'll get a bonus if you can find my first mate, uhh John I think his name was.","Bonus, we haven't even negotiated the princial yet.",FALSE,Of Course we'll help you,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None
+6.0,7,6,0,GuyPurple,Looking to negotiate are you? I'll pay you 100 talons for the ship and 20 for the 1st mate.,Surely a captain with such fine repute can afford a little more,FALSE,"It's awfully Dangerous inquireing around these parts, make it 150, and 30 for the mate.",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,None,None
+6.1,8,6,1,GuyPurple,"Thank you, thank you I'll pay you 150 talons for the safe return of Nebby and an additional 20 talons if you find my first mate",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,None,None
+7.0,9,7,0,GuyPurple,"Of course of course, anything for Nebby. Make it 200 and 40 for the first mate.",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,None,None
+7.1,10,7,1,GuyPurple,Dangerous? I don't need a coward's help. You'll do it for 50 and 10 for the first mate. That or get out of my sight.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,None,None
